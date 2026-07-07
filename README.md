@@ -111,13 +111,13 @@ engse203-lab02-<student-id>/
 
 ### Normal State
 
-- <img width="1400" height="750" alt="Screenshot 2026-07-06 183854" src="https://github.com/user-attachments/assets/c86062ba-4fff-45ea-8d3e-1d8aa51c3456" />
+- <img width="1893" height="971" alt="Screenshot 2026-07-07 103025" src="https://github.com/user-attachments/assets/c25e2679-408d-4ed8-888c-d7c0b6a72b28" />
 
 > คำอธิบาย: หน้าจอ Dashboard เมื่อโหลดข้อมูลสำเร็จและแสดงผลตามปกติ **สามารถดูได้ : [https://bellprime.github.io/engse203-lab02-68543210007-9/](https://bellprime.github.io/engse203-lab02-68543210007-9/) 
 
 ### Error State
 
-- <img width="1400" height="750" alt="Screenshot 2026-07-06 185832" src="https://github.com/user-attachments/assets/2e0e6b85-8b3a-4a61-8bfd-25cfbacf7e05" />
+- <img width="1907" height="965" alt="Screenshot 2026-07-07 103214" src="https://github.com/user-attachments/assets/9bdc84cf-11ee-4d70-a11a-497a762842ea" />
 
 > คำอธิบาย: หน้าจอ Dashboard เมื่อเกิดข้อผิดพลาด เช่น การดึงข้อมูลล้มเหลว หรือ network error **สามารถดูได้ : [https://bellprime.github.io/engse203-lab02-68543210007-9/?simulateError=1](https://bellprime.github.io/engse203-lab02-68543210007-9/?simulateError=1)
 
@@ -146,6 +146,6 @@ engse203-lab02-<student-id>/
 
 - **เครื่องมือที่ใช้:** `<Claude>`
 - **ลักษณะการใช้งาน:** `<ช่วยอธิบายแนวคิด ES Modules, ช่วย debug error , ช่วยอธิยายหลักการทำงานของ function ต่างๆว่ามีการเชื่อมโยงกันยังไง , ช่วยร่างโครง README>`
-- **ส่วนที่เขียน/แก้ไขเองโดยผู้เรียน:** `ส่วนที่เป้น scr และ ขั้นตอนการติดตั้ง ตามที่ศึกษาจากเอกสารของ lab week2`
+- **ส่วนที่เขียน/แก้ไขเองโดยผู้เรียน:** `ส่วนที่เป็น scr และ ขั้นตอนการติดตั้ง ตามที่ศึกษาจากเอกสารของ lab week2`
 
 ---
